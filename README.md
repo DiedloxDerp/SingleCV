@@ -13,14 +13,17 @@ https://roadmap.sh/projects/single-page-cv
     <style>
         h1 {
             text-decoration: overline;
+            ;
             
         }
         body {
             font-family: Arial, Helvetica, sans-serif;
-            
+            max-width: 700px;
             border: 3px solid black;
-            margin:50px;
-            padding: 50px ;
+            
+            
+            margin: 50px auto;
+            padding: 50px;
         }
         
     </style>
